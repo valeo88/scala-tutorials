@@ -1,6 +1,6 @@
 package lectures.beginner.part3fp
 
-object AnonymousClasses extends App {
+object AnonymousFunctions extends App {
 
   // anonymous function (LAMBDA)
   val doubler: Int => Int = (x: Int) => x * 2
