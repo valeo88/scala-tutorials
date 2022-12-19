@@ -37,5 +37,8 @@ Beginner lectures covers:
 
 Beginner exercises: **[MyList](src/exercises/beginner/MyList.scala)** (like List implementation) and **[Maybe](src/exercises/beginner/Maybe.scala)** (like Option)
 
+Advanced course based on [Advanced Scala 2 repo][3]
+
 [1]: https://github.com/rockthejvm/scala-beginners
 [2]: https://github.com/rockthejvm/advanced-scala
+[3]: https://github.com/rockthejvm/scala-2-advanced
