@@ -37,6 +37,16 @@ Beginner lectures covers:
 
 Beginner exercises: **[MyList](src/exercises/beginner/MyList.scala)** (like List implementation) and **[Maybe](src/exercises/beginner/Maybe.scala)** (like Option)
 
+Advanced lectures covers:
+- [Pattern matching](src/lectures/advanced/part1as)
+  - [Dark Sugars syntax](src/lectures/advanced/part1as/DarkSugars.scala)
+  - [Advanced pattern matching](src/lectures/advanced/part1as/AdvancedPatternMatching.scala)
+- [Functional programming](src/lectures/advanced/part2afp)
+  - [Partial functions](src/lectures/advanced/part2afp/PartialFunctions.scala)
+  - [Curries and partial applied functions](src/lectures/advanced/part2afp/CurriesPartialAppliedFunctions.scala)
+  - [Lazy evaluation](src/lectures/advanced/part2afp/LazyEvaluation.scala)
+  - [Monads](src/lectures/advanced/part2afp/Monads.scala)
+
 Advanced course based on [Advanced Scala 2 repo][3]
 
 [1]: https://github.com/rockthejvm/scala-beginners
